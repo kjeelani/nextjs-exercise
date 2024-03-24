@@ -5,7 +5,7 @@ import { ParsedUrlQuery } from 'querystring';
 
 
 
-// Ignore this. Refer to ClubGrid for instructions on how to call this API
+// IGNORE THIS FILE!!! Refer to ClubGrid for instructions on how to call this API
 
 function createClub(clubname: any) {
     if (clubname === "delta") {

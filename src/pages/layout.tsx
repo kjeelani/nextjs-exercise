@@ -1,3 +1,5 @@
+// IGNORE THIS FILE
+
 export const metadata = {
   title: 'Next.js Playground',
   description: 'Test Environment for Next.js',

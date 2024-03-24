@@ -1,5 +1,5 @@
 // DO NOT TOUCH anything in TestData.ts. This contains data that you can use to test your implementation.
-// However, read this to familiarize yourself with TypeScript
+// However, READ THIS to familiarize yourself with TypeScript
 import { faker } from '@faker-js/faker';
 
 
@@ -54,7 +54,7 @@ export let delta: Club = {
 }
 
 // For random club generation
-export function randomClub() {
+export function randomClub(): Club {
     const majorList = ["EECS", "DS", "CS", "Business", "MCB", "Math", "Physics"]
     const year = ["1st Year", "2nd Year", "3rd Year", "4th Year"]
 
