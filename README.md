@@ -1,6 +1,16 @@
-# Next.js Playground
+# Next.js Excercise Overview
 
-This playground has Next.js, TypeScript, ChakraUI, and Axios set-up to follow tutorials during Delta workstations. Follow the instructions below and reach out to kjeelani@berkeley.edu for any questions!
+Your goal is to create a **Berkeley Club Roster** app that, when given a club's info, will return a list of all the members of that club. A very basic example of what this will look like is shown below:
+![image](https://github.com/kjeelani/nextjs-exercise/assets/47492167/d503589b-3e70-423b-b597-91f592c18c63)
+
+### Instructions
+
+You will be given a starter repository. First, go through every file in the src directory and go through the comments. Some files will have comments specifying you IGNORE them, so pay attention to that! Your goal is to fill out the `ClubGrid.tsx` and `PersonCard.tsx` components. Your learning goals are as follows:
+1. Get used to React and JSX syntax
+2. Learn how to use ChakraUI to build modular components (and how to read relevant documentation)
+3. Learn how to call an API using Axios
+
+This assignment should take a maximum of 2 hours to complete. If you are struggling, please contact kjeelani@berkeley.edu for advice.
 
 ### Prerequisites
 
@@ -8,8 +18,8 @@ You'll need Node.js installed on your system. You can download it from https://n
 
 ### Installing
 
-1. Clone the repository to your local machine using `git clone https://github.com/kjeelani/nextjs-playground.git`
-2. Navigate to the project directory using `cd nextjs-playground`
+1. Clone the repository to your local machine using `git clone https://github.com/kjeelani/nextjs-exercise.git`
+2. Navigate to the project directory using `cd nextjs-exercise`
 3. Install the dependencies using `npm install`
 
 ### Running the Application
